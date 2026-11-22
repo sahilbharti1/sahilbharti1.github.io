@@ -1,5 +1,11 @@
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
+I am an Assistant Professor in the Department of Mechanical & Aerospace Engineering, School of Engineering, at Chanakya University, Bengaluru[cite: 11]. My research focuses on robot-assisted sheet metal forming (roboforming), plasticity and phenomenological ductile damage modeling, finite element simulation, and industrial automation for aerospace and automotive applications[cite: 11, 12].
+
+I earned my Ph.D. in Mechanical Engineering from the Indian Institute of Technology (IIT) Madras (defended December 2024), where my doctoral work examined toolpath strategies, heat-assisted forming, geometric accuracy, and fracture forming limits in incremental sheet forming[cite: 11, 12]. During my doctoral tenure, I helped set up an experimental robot-assisted forming facility supported by a Rs. 137.5 lakh Department of Heavy Industry and Mahindra & Mahindra (DCAAI) grant, and co-authored 6 peer-reviewed journal articles (including *Nature Scientific Reports*) alongside 3 patent applications[cite: 11, 13, 14]. I also hold an M.Tech in Mechanical Engineering from IIT Gandhinagar and a B.E. in Production Technology from Madras Institute of Technology, Anna University[cite: 11].
+
+At Chanakya University, I am building the Chanakya Advanced Robotics & Mechatronics (CHARM) Lab and guiding research under the Genesis Protocol[cite: 11]. I also teach B.Tech courses in Engineering Mathematics (Probability and Statistics), Engineering Mechanics, Robotics and Automation Systems, and Physics for Engineers[cite: 15].
+
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
